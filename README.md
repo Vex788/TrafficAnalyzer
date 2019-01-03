@@ -28,3 +28,11 @@ Used library SharpPcap && Pcap && Packet.Net.
 - PTP
 - Link Layer Discovery Protocol (LLDP)
 - Wake-On-LAN (WOL)
+
+## Screenshots
+
+![CaptureForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_main_form.png)
+
+![DeviceListForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_devices_form.png)
+
+![ManipulationForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_manipulation_form.png)
