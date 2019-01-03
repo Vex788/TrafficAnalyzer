@@ -33,6 +33,6 @@ Used library SharpPcap && Pcap && Packet.Net.
 
 ![CaptureForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_main_form.png)
 
-![DeviceListForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_devices_form.png)
+![DeviceListForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_devices.png)
 
-![ManipulationForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_manipulation_form.png)
+![ManipulationForm](https://github.com/Vex788/TrafficAnalyzer/blob/master/scrn_manipulation.png)
